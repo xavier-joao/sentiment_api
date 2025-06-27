@@ -1,0 +1,4 @@
+/app/services/_sentiment.py
+/venv
+/.env
+**/__pycache__

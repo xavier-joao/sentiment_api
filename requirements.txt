@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pytest
+flake8
+black
+python-dotenv
+transformers
+torch
+scikit-learn
+emoji
+pydantic
+httpx
+tiktoken
+protobuf
+sentencepiece
